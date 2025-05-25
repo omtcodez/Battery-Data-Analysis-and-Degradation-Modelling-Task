@@ -118,32 +118,6 @@ I plotted this over cycles to show how the battery health declines — from 100%
 
 ---
 
-## 📊 Sample Outputs
-
-| Metric | Value |
-|--------|-------|
-| Initial Charge Capacity | ~514 Ah |
-| Final Charge Capacity | ~361 Ah |
-| SoH Drop | ~30% over 100 cycles |
-| Regression R² | (visual fit shown on plots) |
-
----
-
-## ⚙️ How to Run This Notebook
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/battery-analysis.git
-cd battery-analysis
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch Jupyter
-jupyter notebook Battery_Analysis_Complete.ipynb
-```
-
----
 
 ## 💬 Conclusions
 
@@ -155,12 +129,7 @@ This project combines clean data science practices with meaningful energy insigh
 
 ---
 
-## 🙋‍♀️ Questions? Feedback?
 
-Open an issue or email me — happy to improve or extend this further!
-
-
----
 
 ## 📋 Detailed Explanations of Case Study Requirements
 
